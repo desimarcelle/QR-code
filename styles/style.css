@@ -1,0 +1,35 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+  text-align: center;
+
+}
+h2{
+  color: hsl(218, 44%, 22%);
+}
+p{
+  color: hsl(220, 15%, 55%);
+  font-size: 16px;
+}
+
+img{
+    border-radius: 10px;
+    width:92%;
+}
+
+main{
+  background-color: white;
+  border-radius: 20px;
+  padding-top: 15px;
+  padding-bottom: 40px;
+  margin: 8rem auto;
+  text-align: center;
+  width:320px;
+}
+
+.mid-container{
+  margin: 0 auto;
+  width:80%;
+  text-align: center;
+
+}
